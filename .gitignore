@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit / local data
+business_tracker.db
+.streamlit/
+
+# OS
+.DS_Store
